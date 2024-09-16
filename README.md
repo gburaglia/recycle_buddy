@@ -4,6 +4,8 @@ Interactive AI Application with Teachable Machine and P5.js called Recycle Buddy
 # Motivation
 I wanted to provide a prototype AI model that would help consumers sort through their individual trash and facilitate proper recycling. While simultaneously teaching them through visual indicators when an item is categorized.
 
+![Image of prototype recognizing aluminum can as a recyclable aluminum object](image-3.png)
+
 # Model Training
 Training was done in 3 iterations, due to not having satisfactory results.
 1.	Decided on 5 categories, selected at least 1 object per category, produced at least ~30 images per category. All images taken on a white background, both alone and being held by my hand.
